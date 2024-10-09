@@ -1,4 +1,4 @@
-Buggy - Gesture Controlled Toy Car
+Buggy: Gesture Controlled Toy Car
 
 Embarking on the frontier of interactive toys, I engineered a Bluetooth-controlled toy car equipped with intuitive hand gesture control functionality.
 
